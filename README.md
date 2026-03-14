@@ -2,11 +2,13 @@
 
 A simple Hello world program
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/UNO5fLVWvLo)
 
 # Development Environment
 
 VS Code
+
+# Programming language
 TypeScript
 
 # Useful Websites
